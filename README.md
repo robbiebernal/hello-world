@@ -1,2 +1,4 @@
 # hello-world
-stuffnthings
+
+Bob Loblaw's Law blog.
+
